@@ -19,6 +19,17 @@ This repository is to document the development of a prototype mobile air tempera
 	* tbd 
 * Ventilator Fan
 	* tbd 
+	
+
+## Purchasing:
+
+| Item Name                                          | Quantity | Price per unit (CAD) | Total Cost              |   |
+|----------------------------------------------------|----------|----------------------|-------------------------|---|
+| Arduino Uno                                        | 2        | ~$30.00              | 60.00 + tax + shipping  |   |
+| Adafruit GPS                                       | 2        | ~$70.00              | 140.00 + tax + shipping |   |
+| Onewire Digital Temperature Thermometer  (DS18B20) | 4        | ~$5.00               | 20.00 + tax + shipping  |   |
+
+
 
 ## Build
 
